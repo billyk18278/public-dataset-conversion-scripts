@@ -1,0 +1,3 @@
+1. merge worksheets TCIA Patient Clinical Subset & TCIA Outcomes Subset into a new excel.
+2. open with SPSS
+3.apply script
